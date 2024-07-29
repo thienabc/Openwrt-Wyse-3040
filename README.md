@@ -5,7 +5,7 @@ Mayble, https://downloads.openwrt.org/releases/23.05.4/targets/x86/64/
 
 Eg: generic-squashfs-combined-efi.img.gz. 
 Extract: generic-squashfs-combined-efi.img 
-Copy to USB (no need USB boot
+=>>> Copy to USB (no need USB boot
 + USB 1 contain FW openwrt
 + USB2 is USB boot
 + Linux iso: MX-23.3 64 bit (or any live linux)
