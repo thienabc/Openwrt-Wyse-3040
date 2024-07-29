@@ -26,3 +26,6 @@ Step5: Clone partition from ISO
 + code clone partition: dd if=xxx.img bs=1M of=/dev/mmcblk0  (xxx: is a filename of Step 1)
 + Specific code: dd if=openwrt-23.05.4-x86-64-generic-squashfs-combined-efi.img bs=1M of=/dev/mmcblk0
 
+Step 6: Must do reparing boot code: 
+      Click Kernel => boot => Grub (edit it)
+
