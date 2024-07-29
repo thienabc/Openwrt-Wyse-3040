@@ -16,7 +16,7 @@ Create USB boot by ventoy-1.0.99. That is the best solution for USB boot iso.
 Step 3: Can use any Linux iso
 Here, download MX-23.3 64 bit
 https://mxlinux.org/torrent-files/ 
-copy file: MX-23.3 64 bit into USB boot at step 2
+copy file: MX-23.3 64 bit into USB boot at step 2 (meaning USB 2)
 
 step 4: Power on Wyse 3040 and press F12 to menu boot
 
