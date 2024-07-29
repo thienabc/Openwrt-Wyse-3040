@@ -23,6 +23,6 @@ step 4: Power on Wyse 3040 and press F12 to menu boot / choose USB boot at step 
 Step5: Clone partition from ISO
 + go to USB1 / right click mouse empty blank with menu command: Open Terminal here.
 + if linux ask and have announce show pass: demo (password is demo)
-+ code clone partition: dd if=xxx.img bs=1M of=/dev/mmcblk0  (xxx: is file name)
++ code clone partition: dd if=xxx.img bs=1M of=/dev/mmcblk0  (xxx: is a filename of Step 1)
 + Specific code: dd if=openwrt-23.05.4-x86-64-generic-squashfs-combined-efi.img bs=1M of=/dev/mmcblk0
 
