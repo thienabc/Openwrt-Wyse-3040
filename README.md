@@ -28,4 +28,6 @@ Step5: Clone partition from ISO
 
 Step 6: Must do reparing boot code: 
       Click Kernel => boot => Grub (edit it)
+      do it following clip here: https://www.youtube.com/watch?v=XWuxbvX9jac&ab_channel=TechniJuan
+      
 
